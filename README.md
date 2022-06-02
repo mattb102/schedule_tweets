@@ -1,2 +1,2 @@
-Schedule a Tweet
+Schedule a Tweet with this Rails App
 !
