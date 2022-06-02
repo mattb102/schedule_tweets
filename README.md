@@ -1,2 +1,2 @@
-Schedule a Tweet with this Rails App
+Schedule a Tweet with this Rails App from gorails 
 !
